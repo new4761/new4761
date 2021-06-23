@@ -20,6 +20,7 @@
 <a href="https://twitter.com/new4762">
 	<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
+</div>
 <hr>
 
 ## :sparkles: My Tech stack :sparkles:
@@ -27,7 +28,7 @@
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -79,7 +80,7 @@
 ](https://github.com/new4761)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new4761&show_icons=true&theme=dark&layout=compact)](https://github.com/new4761)
-</div>
+
 
 <!--
 **new4761/new4761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
