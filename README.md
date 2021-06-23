@@ -1,6 +1,6 @@
-<div style="text-align:center;align:center;">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=NotoSansJP&color=D0E62D&size=21&center=true&vCenter=true&multiline=true&width=500&height=60&lines=HI+my+name+is+New++('_+++-...-+')_;Welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=NotoSansJP&color=D0E62D&size=21&center=true&vCenter=true&multiline=true&width=500&height=60&lines=HI+my+name+is+New++('+-...-+');Welcome+to+my+github)](https://git.io/typing-svg)
 
  <h3>Hi, I'm Kanisorn Siripatkerdpong,Computer Science degree from Thailand  </h3>
 
