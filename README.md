@@ -22,7 +22,7 @@
 </a>
 </div>
 <hr>
-
+<!--
 ## :sparkles: My Tech stack :sparkles:
 ### Programming Languages 
 
@@ -88,7 +88,7 @@
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 <hr/><br>
-
+-->
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=new4761&count_private=true&show_icons=true&theme=dark)
