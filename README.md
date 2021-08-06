@@ -20,8 +20,11 @@
 <a href="https://twitter.com/new4762">
 	<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
+	<div style="display: inline">
+	<a href="https://app.daily.dev/new4761"><img src="https://api.daily.dev/devcards/0fbfd9d49e06417c8c6d282de6b30a43.png?r=82q" width="400" alt="kanisorn siripatkerdpong's Dev Card"/></a></div>
 </div>
 <hr>
+
 <!--
 ## :sparkles: My Tech stack :sparkles:
 ### Programming Languages 
