@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=NotoSansJP&color=D0E62D&size=21&center=true&vCenter=true&multiline=true&width=500&height=60&lines=HI+my+name+is+New++('+-...-+');Welcome+to+my+github)](https://git.io/typing-svg)
 
- <h3>Hi, I'm Kanisorn Siripatkerdpong,Computer Science degree from Thailand  </h3>
-
+	
+<h3>Hi,I'm Kanisorn Siripatkerdpong, Computer Science degree from Thailand  </h3>
+<h3> :rescue_worker_helmet:Junior software engineer at Ascendgroup  </h3>
 <h3> :mailbox_with_mail: How to contract me: brid47@outlook.com </h3>
 
  <h3> :telephone_receiver: Tel : +66968692221</h3>
