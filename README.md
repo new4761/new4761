@@ -4,7 +4,7 @@
 
 	
 <h3>Hi,I'm Kanisorn Siripatkerdpong, Computer Science degree from Thailand  </h3>
-<!-- <h3> :rescue_worker_helmet:Looking for Blockchain ecosystem jobs  </h3> -->
+<h3> :rescue_worker_helmet:Associate Software Engineer At <a href="https://www.omise.co/">Omise</a>  </h3> <a href="https://github.com/new4762"> => Github Acoount at omise</a>
 <h3> :mailbox_with_mail: How to contract me: brid47@outlook.com </h3>
 
  <h3> :telephone_receiver: Tel : +66968692221</h3>
