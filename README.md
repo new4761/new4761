@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=NotoSansJP&color=D0E62D&size=21&center=true&vCenter=true&multiline=true&width=500&height=60&lines=HI+my+name+is+New++('+-...-+');Welcome+to+my+github)](https://git.io/typing-svg)
 
 	
-<h3>Hi,I'm Kanisorn Siripatkerdpong, Computer Science degree from Thailand  </h3>
+<h3>Hi I'm Kanisorn Siripatkerdpong, Computer Science degree from Thailand  </h3>
 <h3> :rescue_worker_helmet: Software Engineer At <a href="https://www.omise.co/">OPN</a>  </h3> <a href="https://github.com/new4762"> => Github Acoount at omise</a>
 <h3> :mailbox_with_mail: How to contract me: brid47@outlook.com </h3>
 
